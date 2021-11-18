@@ -1,0 +1,27 @@
+.intro-content {
+    border: 1px solid lightgrey;
+    background-color: lightgrey;
+    padding: 20x;
+    width: 350px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    font-size: 28px!important;
+}
+body {
+    margin: 0;
+    padding: 20px;
+    font-size: 20px;
+}
+input {
+    height: 24px;
+    width: 300px;
+    margin-bottom: 15px;
+}
+button {
+    font-size: 20px;
+    height: 30px;
+    width: 70px;
+}
+marquee {
+    margin-top: 30px;
+}
